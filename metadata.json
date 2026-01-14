@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of BlackAdventure",
+  "description": "O companheiro definitivo para trilheiros de moto: explore trilhas, organize equipamentos, agende eventos, receba dicas de manutenção e conecte-se com a comunidade.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
